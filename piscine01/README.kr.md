@@ -2,8 +2,16 @@
 # Chapter Ⅰ<br>Instruction
 
 - 내용
-    - 아직 작성중
-    - 제출 형식: `git log —-oneline —-graph —-all` 해서 나온 결과
+    - 과제 레포지토리를 fork해서 사용하세요
+    - 제출은 push를 통해서 진행할 수 있습니다.
+    - branch, 커밋이 꼬인 경우에는 처음부터 다시 시작해야할 수 있습니다 ^_^
+    - 제출 commit 메세지는 자유롭게 작성하시면 됩니다.
+    - 프로젝트 커밋, 브랜치의 시간순 현황은 `git log —-oneline —-graph —-all` 명령으로 간단하게 확인할 수 있습니다.
+
+
+<br>
+<br>
+<br>
 
 # Chapter Ⅱ<br>Foreword
 
@@ -19,41 +27,85 @@
     환경 보호를 위해 나무를 뽑지 않게 조심하도록 해요.
     
     아 참, 4월 5일은 식목일인걸 잊지마세요^_^
+
+<br>
+<br>
+<br>
     
 
 # Chapter Ⅲ<br>Exercise 00 : 브랜치 만들기 및 확인하기
 
-[Exercise 00](https://www.notion.so/114486dcf58f4eb898ca182d18656e00)
+| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|
+| ex00/ | answer | git branch |
+
+<br>
 
 - `dev` 라는 브랜치를 만들어보세요.
 - 브랜치가 잘 만들어졌는지 확인해보세요.
 - answer 라는 이름의 파일을 만들고, 이 파일에 **브랜치를 만들때 쓴 명령어**를 적어 제출해주세요.
 
+<br>
+<br>
+<br>
 
 # Chapter Ⅳ<br>Exercise 01 : 브랜치로 이동하기
 
-[Exercise 01](https://www.notion.so/537db044a0534f4e869c4880b2a94d8d)
+| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|
+| ex01/ | answer | git branch, git checkout |
+
+<br>
 
 - `dev` 브랜치로 이동하고,
 - `dev` 브랜치로 잘 이동되었는지 확인해보세요.
 - answer 라는 이름의 파일을 만들고, 이 파일에 `git branch` 했을때 보이는 결과를 넣어 제출해주세요.
 
+<br>
+<br>
+<br>
 
 # Chapter Ⅴ<br>Exercise 02 : 브랜치 만들면서 이동하기
 
-[Exercise 02](https://www.notion.so/3d6576fcf1fa4452a5a99b6e41ebb36b)
+| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|
+| ex02/ | answer | git branch, git checkout |
 
-- `dev` 라는 브랜치를 만들면서 이동까지 한번에 해보세요
-- 브랜치가 잘 만들어졌는지, 잘 이동되었는지 확인해보세요
+<br>
+
+- `dev` 라는 브랜치를 만들면서 이동까지 한번에 해보세요.
+- 브랜치가 잘 만들어졌는지, 잘 이동되었는지 확인해보세요.
 - answer 라는 이름의 파일을 만들고, 이 파일에 **브랜치를 만들면서 이동할때 쓴 명령어**를 적어 제출해주세요.
 
-
+<br>
+<br>
+<br>
 
 # Chapter Ⅵ<br>Exercise 03 : 브랜치 지우기
 
-[Exercise 03](https://www.notion.so/f00b39beefa54dbfadbf98f7ccc56a28)
+| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|
+| ex03/ | answer | git branch -D |
 
+<br>
+
+- `dev` 라는 브랜치를 지워보세요.
+- 브랜치가 잘 지워졌는지 확인해보세요.
+- answer 라는 이름의 파일을 만들고, 이 파일에 `git branch` 했을때 보이는 결과를 넣어 제출해주세요.
+
+<br>
+<br>
+<br>
 
 # Chapter Ⅶ<br>Exercise 04 : 로컬 브랜치 remote 서버에 적용하기
 
-[Exercise 04](https://www.notion.so/8eb6d6487e9543b49838a18ea3954e60)
+| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|
+| ex04/ | answer | git branch, git checkout, git push |
+
+<br>
+
+- `dev` 라는 브랜치를 만들고, `dev` 브랜치로 이동해주세요.
+- `dev` 브랜치에 Z 라는 빈 파일을 만들고, Z 라는 내용의 commit 을 해주세요.
+- remote 서버에 브랜치를 push 해주세요.
+- remote 서버에 브랜치를 push 할때 쓴 명령어를 적어주세요.
