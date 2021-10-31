@@ -28,37 +28,38 @@
 - 위 그림과 같은 형태의 git graph를 만들어 보세요
 - `main` 브랜치에서 `dev` 브랜치를 만듭니다.
 - `dev` 브랜치에서 아래와같은 브랜치를 만듭니다.
-    - feature/plus 브랜치에서는 덧셈 기능을 구현합니다.
-    - feature/minus 브랜치에서는 뺄셈 기능을 구현합니다.
-    - feature/multiple 브랜치에서는 곱셈 기능을 구현합니다.
-    - feature/divide 브랜치에서는 나눗셈 기능을 구현합니다.
     - feature/square 브랜치에서는 제곱 기능을 구현합니다.
-- `dev`브랜치에 feature/* 브랜치들을 rebase 하세요.
+    - feature/sqrt 브랜치에서는 루트 기능을 구현합니다.
+    - feature/gcd 브랜치에서 최대공약수를 구현합니다.
+    - feature/lcm 브랜치에서 최소공배수를 구현합니다.
+- `dev`브랜치에 feature/* 브랜치들을 **rebase** 하세요.
 - `main`브랜치에 `dev` 브랜치를 merge 하세요.
 - 계산기는 `main` 브랜치에서 정상적으로 작동해야 합니다.
 
 <br>
 
-### main function
+* Example :
 
 ```c
 #include <stdio.h>
 
-int plus(int n1, int n2);
-int minus(int n1, int n2);
-int multiple(int n1, int n2);
-int divide(int n1, int n2);
+double sqrt(int n);
+int square(int n);
+int gcd(int a, int b);
+int lcm(int a, int b);
 
 int main(void)
 {
-    printf("plus : 4 + 2 = %d \n", plus(4, 2));
-    printf("minus : 4 - 2 = %d \n", minus(4, 2));
-	printf("multiple : 4 * 2 = %d \n", multiple(4, 2));
-	printf("divide : 42 % 2 = %d \n", divide(42, 2));
+    printf("sqrt(4) : %d \n", sqrt(4));
+    printf("square(4) : %d \n", square(4));
+	printf("gcd(4, 2) : %d \n", gcd(4, 2));
+	printf("lcm(42, 2) :  %d \n", lcm(42, 2));
 
 	return (0);
 }
 ```
+
+<br>
 
 > git log --oneline --graph --all 혹은 vscode git graph 로 merge와 rebase의 차이를 비교해보세요!
 

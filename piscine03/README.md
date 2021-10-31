@@ -2,7 +2,7 @@
 # Chapter Ⅰ<br>Instruction
 
 - 내용
-    - Fork the Piscine02 repository.
+    - Fork the Piscine03 repository.
     - You can use `git push` to push to Github.
     - You always can restart the project if you didn't get the right result.
     - Commit with the message you want.
@@ -17,7 +17,7 @@
 <br>
 <br>
     
-# Chapter Ⅱ<br>Exercise 00 : 브랜치로 협업해보기 - 계산기 만들기
+# Chapter Ⅱ<br>Exercise 00 : Make a calculator
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
@@ -28,18 +28,18 @@
 - Create a git graph same as picture01.
 - Make a `dev` branch from `main` branch.
 - Make these branches from the `dev` branch.
-    - feature/plus : add feature
-    - feature/minus : subtract feature
-    - feature/multiple : multiplication feature
-    - feature/divide : division feature
-- Merge feature/* branches into the `dev` branch.
+    - feature/plus : write a program which has **add** feature
+    - feature/minus : write a program which has **subtract** feature
+    - feature/multiple : write a program which has **multiplication** feature
+    - feature/divide : write a program which has **division** feature
+- **Merge** feature/* branches into the `dev` branch.
 - Merge `dev` branch into the `main` branch.
 - Your calculator should work well on the `main` branch.
 
 
 <br>
 
-### main function
+* Example :
 
 ```c
 #include <stdio.h>

@@ -33,13 +33,13 @@
     - feature/multiple 브랜치에서는 곱셈 기능을 구현합니다.
     - feature/divide 브랜치에서는 나눗셈 기능을 구현합니다.
     - feature/square 브랜치에서는 제곱 기능을 구현합니다.
-- `dev`브랜치에 feature/* 브랜치들을 merge 하세요.
+- `dev`브랜치에 feature/* 브랜치들을 **merge** 하세요.
 - `main`브랜치에 `dev` 브랜치를 merge 하세요.
 - 계산기는 `main` 브랜치에서 정상적으로 작동해야 합니다.
 
 <br>
 
-### main function
+* Example :
 
 ```c
 #include <stdio.h>
