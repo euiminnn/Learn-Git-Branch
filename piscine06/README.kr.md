@@ -8,7 +8,7 @@ linux 레포지토리를 클론하고 git graph를 실행해보세요!
 <br>
 <br>
 
-<img src="../assets/linux.png" width="300" alt="linux git graph"/>
+![](../assets/linux.png)
 
 <br>
 <br>
