@@ -21,7 +21,7 @@ Enjoy your study :)
 ## 👨‍🏫 Contributors
 <br/>
 
-| ![](./assets/echung.png){:height="130px" width="130px"} | <img src="./assets/ycha.png" width="130" alt="차영훈"/> | <img src="./assets/suhshin.png" width="160" alt="신수형"/> |
+| ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/echung.pngs=130) | <img src="./assets/ycha.png" width="130" alt="차영훈"/> | <img src="./assets/suhshin.png" width="160" alt="신수형"/> |
 | :---: | :---: | :---: |
 | [Euimin Chung](https://github.com/euiminnn)<br/>42Seoul<br/>@echung<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Younghoon Cha](https://github.com/Skyrich2000)<br/>42Seoul<br/>@ycha<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Suhyoung Shin](https://github.com/rkskekzzz)<br/>42Seoul<br/>@suhshin<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
