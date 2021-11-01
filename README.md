@@ -21,7 +21,7 @@ Enjoy your study :)
 ## 👨‍🏫 Contributors
 <br/>
 
-| ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/echung.png?raw=true) | ![](https://cdn.mkhealth.co.kr/news/photo/202010/50970_51164_4758.jpg) | ![](./assets/suhshin.png?raw=true) |
+| ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/echung.png?raw=true&s) | ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/ycha.png?raw=true) | ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/suhshin.png?raw=true) |
 | :---: | :---: | :---: |
 | [Euimin Chung](https://github.com/euiminnn)<br/>42Seoul<br/>@echung<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Younghoon Cha](https://github.com/Skyrich2000)<br/>42Seoul<br/>@ycha<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Suhyoung Shin](https://github.com/rkskekzzz)<br/>42Seoul<br/>@suhshin<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 

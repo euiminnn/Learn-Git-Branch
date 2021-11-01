@@ -21,7 +21,7 @@
 ## 👨‍🏫 만든 사람
 <br/>
 
-| <img src="./assets/echung.png" width="150" alt="정의민"/> | <img src="./assets/ycha.png" width="130" alt="차영훈"/> | <img src="./assets/suhshin.png" width="160" alt="신수형"/> |
+| ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/echung.png?raw=true) | ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/ycha.png?raw=true) | ![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/suhshin.png?raw=true) |
 | :---: | :---: | :---: |
 | [정의민](https://github.com/euiminnn)<br/>42Seoul<br/>@echung<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [차영훈](https://github.com/Skyrich2000)<br/>42Seoul<br/>@ycha<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [신수형](https://github.com/rkskekzzz)<br/>42Seoul<br/>@suhshin<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
