@@ -1,12 +1,11 @@
 [한국어](README.kr.md)
 # Chapter Ⅰ<br>Instruction
 
-- 내용
-    - Fork the Piscine02 repository.
-    - You can use `git push` to push to Github.
-    - You always can restart the project if you didn't get the right result.
-    - Commit with the message you want.
-    - Try the command `git log --oneline --graph --all` and it will show you all the commits you've made.
+- Fork the Piscine02 repository.
+- You can use `git push` to push to Github.
+- You always can restart the project if you didn't get the right result.
+- Commit with the message you want.
+- Try the command `git log --oneline --graph --all` and it will show you all the commits you've made.
 
 <br>
 <br>
@@ -56,4 +55,4 @@
 - If you get the conflict, cancel the merge with some commands.
 
 
-! You don't need to reset the brances when you get conflicts. Cancel the merge only when it was a mistake. !
+! You don't need to reset the branches when you get conflicts. Cancel the merge only when it was a mistake. !

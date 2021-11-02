@@ -1,12 +1,11 @@
 [한국어](README.kr.md)
 # Chapter Ⅰ<br>Instruction
 
-- 내용
-    - Fork the Piscine00 repository.
-    - You can use `git push` to push to Github.
-    - You always can restart the project if you didn't get the right result.
-    - Commit with the message you want.
-    - Try the command `git log --oneline --graph --all` and it will show you all the commits you've made.
+- Fork the Piscine00 repository.
+- You can use `git push` to push to Github.
+- You always can restart the project if you didn't get the right result.
+- Commit with the message you want.
+- Try the command `git log --oneline --graph --all` and it will show you all the commits you've made.
 
 <br>
 <br>
@@ -16,7 +15,7 @@
 
     A tree has lots of its branches.
 
-    They came from main branch and create small branches.
+    They came from the main branch and create small branches.
 
     The small ones are easily broken.
 
@@ -39,7 +38,7 @@
 
 <br>
 
-- See the commit status of current project.
+- See the commit status of the current project.
 - Submit your answer(**the result when you get with the command `git log`**) in a file named `answer`.
 
 <br>
@@ -54,7 +53,7 @@
 
 <br>
 
-- Check the location of HEAD of current project.
+- Check the location of the HEAD of the current project.
 - Move HEAD to a previous commit.
 - Submit your answer(**the result when you get with the command `git log`**) in a file named `answer`.
 

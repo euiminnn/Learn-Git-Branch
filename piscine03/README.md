@@ -1,16 +1,15 @@
 [한국어](README.kr.md)
 # Chapter Ⅰ<br>Instruction
 
-- 내용
-    - Fork the Piscine03 repository.
-    - You can use `git push` to push to Github.
-    - You always can restart the project if you didn't get the right result.
-    - Commit with the message you want.
-    - Try the command `git log --oneline --graph --all` and it will show you all the commits you've made.
+- Fork the Piscine03 repository.
+- You can use `git push` to push to Github.
+- You always can restart the project if you didn't get the right result.
+- Commit with the message you want.
+- Try the command `git log --oneline --graph --all` and it will show you all the commits you've made.
 
 <br>
 
-- You should make a calculator on this project.
+- You should make a calculator for this project.
 - This is a group project so you need at least one person in your team.
 
 <br>
@@ -26,7 +25,7 @@
 <br>
 
 - Create a git graph same as picture01.
-- Make a `dev` branch from `main` branch.
+- Make a `dev` branch from the `main` branch.
 - Make these branches from the `dev` branch.
     - feature/plus : write a program which has **add** feature
     - feature/minus : write a program which has **subtract** feature
