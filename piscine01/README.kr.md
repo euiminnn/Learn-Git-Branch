@@ -1,4 +1,4 @@
-[English](README.md)
+[English](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine01/README.md)
 # Chapter Ⅰ<br>Instruction
 
 - 과제 레포지토리를 fork해서 사용하세요
