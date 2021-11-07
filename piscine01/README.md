@@ -1,4 +1,4 @@
-[한국어](README.kr.md)
+[한국어](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine01/README.kr.md)
 # Chapter Ⅰ<br>Instruction
 
 - Fork the Piscine01 repository.
@@ -36,7 +36,7 @@
 
 <br>
 
-- Create a new branch named `dev`.
+- Create a new branch named `dev` from the `main` branch.
 - Make sure that the branch has been created.
 - Submit your answer(**command that you used**) in a file named `answer.txt`.
 

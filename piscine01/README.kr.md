@@ -1,4 +1,4 @@
-[English](README.md)
+[English](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine01/README.md)
 # Chapter Ⅰ<br>Instruction
 
 - 과제 레포지토리를 fork해서 사용하세요
@@ -40,7 +40,7 @@
 
 <br>
 
-- `dev` 라는 브랜치를 만들어보세요.
+- `main` 브랜치로부터 `dev` 라는 브랜치를 만들어보세요.
 - 브랜치가 잘 만들어졌는지 확인해보세요.
 - answer 라는 이름의 파일을 만들고, 이 파일에 **브랜치를 만들때 쓴 명령어**를 적어 제출해주세요.
 
