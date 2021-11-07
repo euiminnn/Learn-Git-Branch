@@ -36,7 +36,7 @@
 
 <br>
 
-- Create a new branch named `dev`.
+- Create a new branch named `dev` from the `main` branch.
 - Make sure that the branch has been created.
 - Submit your answer(**command that you used**) in a file named `answer`.
 
