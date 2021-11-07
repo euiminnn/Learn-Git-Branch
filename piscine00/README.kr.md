@@ -2,7 +2,7 @@
 # Chapter Ⅰ<br>Instruction
 
 - 과제 레포지토리를 fork해서 사용하세요
-- 제출은 push를 통해서 진행할 수 있습니다.
+- 제출은 **main 브랜치에서 push**를 통해서 진행할 수 있습니다.
 - branch, 커밋이 꼬인 경우에는 처음부터 다시 시작해야할 수 있습니다.
 - 제출 commit 메세지는 자유롭게 작성하시면 됩니다.
 - 프로젝트 커밋, 브랜치의 시간순 현황은 `git log —-oneline —-graph —-all` 명령으로 간단하게 확인할 수 있습니다.
@@ -33,9 +33,9 @@
 
 # Chapter Ⅲ<br>Exercise 00 : 단일 브랜치에서 커밋 확인하기
 
-| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
-|:--:|:--:|:--:|
-| ex00/ | answer.txt | git log |
+| 제출 브랜치 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|:--:|
+| main | ex00/ | answer.txt | git log |
 
 <br>
 
@@ -48,9 +48,9 @@
 
 # Chapter Ⅳ<br>Exercise 01 : HEAD가 뭐야?
 
-| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
-|:--:|:--:|:--:|
-| ex01/ | answer.txt | git log, git checkout |
+| 제출 브랜치 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|:--:|
+| main | ex01/ | answer.txt | git log, git checkout |
 
 <br>
 
@@ -64,9 +64,9 @@
 
 # Chapter Ⅴ<br>Bonus : Visual Studio Code Extension 설치하기
 
-| 제출 디렉토리 | 제출 파일 | 허용 명령어 |
-|:--:|:--:|:--:|
-| bonus/ | answer.txt | - |
+| 제출 브랜치 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
+|:--:|:--:|:--:|:--:|
+| main | bonus/ | answer.txt | - |
 
 <br>
 

@@ -2,7 +2,7 @@
 # Chapter Ⅰ<br>Instruction
 
 - Fork the Piscine00 repository.
-- You can use `git push` to push to Github.
+- You can use **`git push` at the `main` branch** to push to the server.
 - You always can restart the project if you didn't get the right result.
 - Commit with the message you want.
 - Try the command `git log --oneline --graph --all` and it will show you all the commits you've made.
@@ -32,9 +32,9 @@
 
 # Chapter Ⅲ<br>Exercise 00 : Git log
 
-| Turn-in directory | Files to turn in | Allowed commands |
-|:--:|:--:|:--:|
-| ex00/ | answer.txt | git log |
+| Turn-in branch | Turn-in directory | Files to turn in | Allowed commands |
+|:--:|:--:|:--:|:--:|
+| main | ex00/ | answer.txt | git log |
 
 <br>
 
@@ -47,9 +47,9 @@
 
 # Chapter Ⅳ<br>Exercise 01 : HEAD
 
-| Turn-in directory | Files to turn in | Allowed commands |
-|:--:|:--:|:--:|
-| ex01/ | answer.txt | git log, git checkout |
+| Turn-in branch | Turn-in directory | Files to turn in | Allowed commands |
+|:--:|:--:|:--:|:--:|
+| main | ex01/ | answer.txt | git log, git checkout |
 
 <br>
 
@@ -63,9 +63,9 @@
 
 # Chapter Ⅴ<br>Bonus : Visual Studio Code Extension
 
-| Turn-in directory | Files to turn in | Allowed commands |
-|:--:|:--:|:--:|
-| bonus/ | answer.txt | - |
+| Turn-in branch | Turn-in directory | Files to turn in | Allowed commands |
+|:--:|:--:|:--:|:--:|
+| main | bonus/ | answer.txt | - |
 
 <br>
 
