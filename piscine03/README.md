@@ -50,6 +50,7 @@ int plus(int n1, int n2);
 int minus(int n1, int n2);
 int mul(int n1, int n2);
 int div(int n1, int n2);
+int square(int n);
 
 int main(void)
 {
@@ -57,6 +58,7 @@ int main(void)
     printf("minus : 4 - 2 = %d \n", minus(4, 2));
 	printf("mul : 4 * 2 = %d \n", mul(4, 2));
 	printf("div : 42 % 2 = %d \n", div(42, 2));
+    printf("square : 4 ^ 2 = %d \n", square(4));
 
 	return (0);
 }

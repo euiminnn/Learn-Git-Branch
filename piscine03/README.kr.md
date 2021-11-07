@@ -50,13 +50,15 @@ int plus(int n1, int n2);
 int minus(int n1, int n2);
 int multiple(int n1, int n2);
 int divide(int n1, int n2);
+int square(int n);
 
 int main(void)
 {
     printf("plus : 4 + 2 = %d \n", plus(4, 2));
     printf("minus : 4 - 2 = %d \n", minus(4, 2));
-	printf("multiple : 4 * 2 = %d \n", multiple(4, 2));
-	printf("divide : 42 % 2 = %d \n", divide(42, 2));
+    printf("multiple : 4 * 2 = %d \n", multiple(4, 2));
+    printf("divide : 42 / 2 = %d \n", divide(42, 2));
+    printf("square : 4 ^ 2 = %d \n", square(4));
 
 	return (0);
 }
