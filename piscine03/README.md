@@ -24,7 +24,7 @@
 
 <br>
 
-![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/p04example.png?raw=true)
+![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/p03example.png?raw=true)
 
 - Create a git graph same as the above.
 - Make a `dev` branch from the `main` branch.
