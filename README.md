@@ -3,7 +3,7 @@
 
 This project helps you to learn git branching.
 
-You will master how to use git branch on GitHub after studying 7 subjects.
+You will master how to use git branch after studying 6 subjects.
 
 A whole week is recommended.
 
@@ -16,7 +16,6 @@ Enjoy your study :)
 4. [Branch Piscine 03](./piscine03/README.md)
 5. [Branch Piscine 04](./piscine04/README.md)
 6. [Branch Piscine 05](./piscine05/README.md)
-7. [Branch Piscine 06](./piscine06/README.md)
 
 ## 👨‍🏫 Contributors
 <br/>
