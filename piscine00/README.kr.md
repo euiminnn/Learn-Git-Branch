@@ -35,7 +35,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex00/ | answer | git log |
+| ex00/ | answer.txt | git log |
 
 <br>
 
@@ -50,7 +50,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex01/ | answer | git log, git checkout |
+| ex01/ | answer.txt | git log, git checkout |
 
 <br>
 
@@ -66,7 +66,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| bonus/ | answer | - |
+| bonus/ | answer.txt | - |
 
 <br>
 

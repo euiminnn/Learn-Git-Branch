@@ -36,7 +36,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex00/ | answer | git branch |
+| ex00/ | answer.txt | git branch |
 
 <br>
 
@@ -52,7 +52,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex01/ | answer | git branch, git checkout |
+| ex01/ | answer.txt | git branch, git checkout |
 
 <br>
 
@@ -68,7 +68,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex02/ | answer | git branch, git checkout |
+| ex02/ | answer.txt | git branch, git checkout |
 
 <br>
 
@@ -84,7 +84,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex03/ | answer | git branch -D |
+| ex03/ | answer.txt | git branch -D |
 
 <br>
 
@@ -100,7 +100,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex04/ | answer | git branch, git checkout, git push |
+| ex04/ | answer.txt | git branch, git checkout, git push |
 
 <br>
 

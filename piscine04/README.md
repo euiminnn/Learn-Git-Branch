@@ -20,12 +20,13 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex00/ | ./calculator | anything |
+| ex00/ | calculator | anything |
 
 <br>
 
+![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/p04example.png?raw=true)
 
-- Create a git graph same as picture01.
+- Create a git graph same as the above.
 - Make a `dev` branch from the `main` branch.
 - Make these branches from the `dev` branch.
     - feature/square : write a program which has **square** feature

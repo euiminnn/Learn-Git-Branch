@@ -34,12 +34,12 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex00/ | answer | git log |
+| ex00/ | answer.txt | git log |
 
 <br>
 
 - See the commit status of the current project.
-- Submit your answer(**the result when you get with the command `git log`**) in a file named `answer`.
+- Submit your answer(**the result when you get with the command `git log`**) in a file named `answer.txt`.
 
 <br>
 <br>
@@ -49,13 +49,13 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex01/ | answer | git log, git checkout |
+| ex01/ | answer.txt | git log, git checkout |
 
 <br>
 
 - Check the location of the HEAD of the current project.
 - Move HEAD to a previous commit.
-- Submit your answer(**the result when you get with the command `git log`**) in a file named `answer`.
+- Submit your answer(**the result when you get with the command `git log`**) in a file named `answer.txt`.
 
 <br>
 <br>
@@ -65,13 +65,13 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| bonus/ | answer | - |
+| bonus/ | answer.txt | - |
 
 <br>
 
 - Go get Git Graph from Visual Studio Extension.
 - Open the project in Visual Studio Code and check the git graph.
-- Create a file named `answer` and put the screenshot of the git graph you got.
+- Create a file named `answer.txt` and put the screenshot of the git graph you got.
 
 <br>
 <br>

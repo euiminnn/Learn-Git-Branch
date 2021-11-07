@@ -20,9 +20,11 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex00/ | ./calculator | anything |
+| ex00/ | calculator | anything |
 
 <br>
+
+![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/p04example.png?raw=true)
 
 - 위 그림과 같은 형태의 git graph를 만들어 보세요
 - `main` 브랜치에서 `dev` 브랜치를 만듭니다.

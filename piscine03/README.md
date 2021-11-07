@@ -20,7 +20,7 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex00/ | ./calculator | anything |
+| ex00/ | calculator | anything |
 
 <br>
 

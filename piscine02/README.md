@@ -15,13 +15,13 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex00/ | answer | git branch, git merge |
+| ex00/ | answer.txt | git branch, git merge |
 
 <br>
 
 - Move to the `dev` branch.
 - Make sure that your current branch is `dev`.
-- Submit your answer(**the result when you get with the command `git branch`**) in a file named `answer`.
+- Submit your answer(**the result when you get with the command `git branch`**) in a file named `answer.txt`.
 
 <br>
 <br>
@@ -31,12 +31,12 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex01/ | answer | git merge --merged, git merge --no-merged|
+| ex01/ | answer.txt | git merge --merged, git merge --no-merged|
 
 <br>
 
 - Find the branch that has not been merged, and merge it to the main branch.
-- Submit your answer(**the result when you get with the command `git merge --merged`**) in a file named `answer`. 
+- Submit your answer(**the result when you get with the command `git merge --merged`**) in a file named `answer.txt`. 
 
 <br>
 <br>
@@ -47,7 +47,7 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex02/ | answer | git merge , git merge --abort|
+| ex02/ | answer.txt | git merge , git merge --abort|
 
 <br>
 

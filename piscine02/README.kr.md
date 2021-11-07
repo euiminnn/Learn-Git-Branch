@@ -17,13 +17,13 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex00/ | answer | git branch, git merge |
+| ex00/ | answer.txt | git branch, git merge |
 
 <br>
 
 - `dev` 브랜치로 이동하고,
 - `dev` 브랜치로 잘 이동되었는지 확인해보세요.
-- answer 라는 이름의 파일을 만들고, 이 파일에 `git branch` 했을때 보이는 결과를 넣어 제출해주세요.
+- answer.txt 라는 이름의 파일을 만들고, 이 파일에 `git branch` 했을때 보이는 결과를 넣어 제출해주세요.
 
 <br>
 <br>
@@ -33,12 +33,12 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex01/ | answer | git merge --merged, git merge --no-merged|
+| ex01/ | answer.txt | git merge --merged, git merge --no-merged|
 
 <br>
 
 - 프로젝트에서 머지되지 않은 브랜치를 찾아서 main 브랜치에 머지해보세요.
-- answer 라는 이름의 파일을 만들고, 이 파일에 **`git merge --merged`를 실행한 결과**를 적어 제출해주세요.
+- answer.txt 라는 이름의 파일을 만들고, 이 파일에 **`git merge --merged`를 실행한 결과**를 적어 제출해주세요.
 
 <br>
 <br>
@@ -49,7 +49,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex02/ | answer | git merge , git merge --abort|
+| ex02/ | answer.txt | git merge , git merge --abort|
 
 <br>
 

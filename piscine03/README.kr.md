@@ -20,7 +20,7 @@
 
 | 제출 디렉토리 | 제출 파일 | 허용 명령어 |
 |:--:|:--:|:--:|
-| ex00/ | ./calculator | anything |
+| ex00/ | calculator | anything |
 
 <br>
 

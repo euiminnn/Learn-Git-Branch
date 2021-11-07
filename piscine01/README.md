@@ -32,13 +32,13 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex00/ | answer | git branch |
+| ex00/ | answer.txt | git branch |
 
 <br>
 
 - Create a new branch named `dev`.
 - Make sure that the branch has been created.
-- Submit your answer(**command that you used**) in a file named `answer`.
+- Submit your answer(**command that you used**) in a file named `answer.txt`.
 
 <br>
 <br>
@@ -48,13 +48,13 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex01/ | answer | git branch, git checkout |
+| ex01/ | answer.txt | git branch, git checkout |
 
 <br>
 
 - Move to the `dev` branch.
 - Make sure that you moved to `dev`.
-- Submit your answer(**the result when you get with the command `git branch`**) in a file named `answer`.
+- Submit your answer(**the result when you get with the command `git branch`**) in a file named `answer.txt`.
 
 <br>
 <br>
@@ -64,13 +64,13 @@
 
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex02/ | answer | git branch, git checkout |
+| ex02/ | answer.txt | git branch, git checkout |
 
 <br>
 
 - Create a branch named `dev` and move to it with one command.
 - Make sure that the branch has been created and you moved to the branch.
-- Submit your answer(**command that you used**) in a file named `answer`.
+- Submit your answer(**command that you used**) in a file named `answer.txt`.
 
 <br>
 <br>
@@ -79,13 +79,13 @@
 # Chapter Ⅵ<br>Exercise 03 : Remove a branch
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex03/ | answer | git branch |
+| ex03/ | answer.txt | git branch |
 
 <br>
 
 - Remove the branch named `dev`.
 - Make sure that the branch has been removed.
-- Submit your answer(**the result when you get with the command `git branch`**) in a file named `answer`.
+- Submit your answer(**the result when you get with the command `git branch`**) in a file named `answer.txt`.
 
 <br>
 <br>
@@ -94,11 +94,11 @@
 # Chapter Ⅶ<br>Exercise 04 : Apply to the remote server
 | Turn-in directory | Files to turn in | Allowed commands |
 |:--:|:--:|:--:|
-| ex04/ | answer | git push |
+| ex04/ | answer.txt | git push |
 
 <br>
 
 - Create a branch named `dev`, and move to the branch.
 - Make an empty file `Z` and commit with a commit message `Z`.
 - Push the branch to the remote server.
-- Submit your answer(**command that you used when pushing to the remote server**) in a file named `answer`.
+- Submit your answer(**command that you used when pushing to the remote server**) in a file named `answer.txt`.
