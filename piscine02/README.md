@@ -19,9 +19,9 @@
 
 <br>
 
-- Move to the `dev` branch.
-- Make some commits to the `dev` branch.
-- Go back to the `main` branch and merge the `dev` branch into the `main` branch.
+- Move to the `dev00` branch.
+- Make some commits to the `dev00` branch.
+- Go back to the `main` branch and merge the `dev00` branch into the `main` branch.
 - Try the command `git reflog` to make sure that the type of the merge was fast-forward.
 - Submit your answer(**the result when you get with the command `git reflog`**) in a file named `answer.txt`.
 
@@ -37,7 +37,6 @@
 
 <br>
 
-- Find the branch that has not been merged, and merge it to the main branch.
 - Submit your answer(**the result when you get with the command `git branch --merged`**) in a file named `answer.txt`. 
 
 <br>
@@ -53,7 +52,7 @@
 
 <br>
 
-- Merge `feature` branch into `dev` branch.
+- Merge `feature` branch into `dev01` branch.
 - If you get the conflict, cancel the merge with some commands.
 
 
