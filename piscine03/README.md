@@ -24,9 +24,12 @@
 
 <br>
 
-- Create a git graph same as picture01.
+![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/p04example.png?raw=true)
+
+- Create a git graph same as the above.
 - Make a `dev` branch from the `main` branch.
 - Make these branches from the `dev` branch.
+    - **Each team members should work on different branches.**
     - feature/plus : write a program which has **add** feature
     - feature/minus : write a program which has **subtract** feature
     - feature/multiple : write a program which has **multiplication** feature

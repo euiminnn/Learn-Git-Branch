@@ -29,6 +29,7 @@
 - Create a git graph same as the above.
 - Make a `dev` branch from the `main` branch.
 - Make these branches from the `dev` branch.
+    - **Each team members should work on different branches.**
     - feature/square : write a program which has **square** feature
     - feature/sqrt : write a program which has **square root** feature
     - feature/gcd : write a program which has **GCD** feature
