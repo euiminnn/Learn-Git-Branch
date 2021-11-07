@@ -20,8 +20,10 @@
 <br>
 
 - Move to the `dev` branch.
-- Make sure that your current branch is `dev`.
-- Submit your answer(**the result when you get with the command `git branch`**) in a file named `answer.txt`.
+- Make some commits to the `dev` branch.
+- Go back to the `main` branch and merge the `dev` branch into the `main` branch.
+- Try the command `git reflog` to make sure that the type of the merge was fast-forward.
+- Submit your answer(**the result when you get with the command `git reflog`**) in a file named `answer.txt`.
 
 <br>
 <br>
