@@ -1,4 +1,4 @@
-[English](README.md)
+[English](https://github.com/euiminnn/Learn-Git-Branch/blob/main/README.md)
 # Git Branch 정복하기
 
 이 프로젝트는 깃 브랜치 사용법을 익히기 위한 분들을 위해 만들어졌습니다.
@@ -10,12 +10,12 @@
 과제 해결 과정을 통해 즐겁게 배워보세요 :)
 
 ## 📚 과제
-1. [Branch Piscine 00](./piscine00/README.kr.md)
-2. [Branch Piscine 01](./piscine01/README.kr.md)
-3. [Branch Piscine 02](./piscine02/README.kr.md)
-4. [Branch Piscine 03](./piscine03/README.kr.md)
-5. [Branch Piscine 04](./piscine04/README.kr.md)
-6. [Branch Piscine 05](./piscine05/README.kr.md)
+1. [Branch Piscine 00](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine00/README.kr.md)
+2. [Branch Piscine 01](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine01/README.kr.md)
+3. [Branch Piscine 02](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine02/README.kr.md)
+4. [Branch Piscine 03](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine03/README.kr.md)
+5. [Branch Piscine 04](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine04/README.kr.md)
+6. [Branch Piscine 05](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine05/README.kr.md)
 
 ## 👨‍🏫 만든 사람
 <br/>

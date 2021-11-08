@@ -1,4 +1,4 @@
-[한국어](README.kr.md)
+[한국어](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine00/README.kr.md)
 # Chapter Ⅰ<br>Instruction
 
 - Fork the Piscine00 repository.

@@ -1,4 +1,4 @@
-[한국어](README.kr.md)
+[한국어](https://github.com/euiminnn/Learn-Git-Branch/blob/main/README.kr.md)
 # How to master Git Branch
 
 This project helps you to learn git branching.
@@ -10,12 +10,12 @@ A whole week is recommended.
 Enjoy your study :)
 
 ## 📚 Subjects
-1. [Branch Piscine 00](./piscine00/README.md)
-2. [Branch Piscine 01](./piscine01/README.md)
-3. [Branch Piscine 02](./piscine02/README.md)
-4. [Branch Piscine 03](./piscine03/README.md)
-5. [Branch Piscine 04](./piscine04/README.md)
-6. [Branch Piscine 05](./piscine05/README.md)
+1. [Branch Piscine 00](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine00/README.md)
+2. [Branch Piscine 01](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine01/README.md)
+3. [Branch Piscine 02](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine02/README.mdd)
+4. [Branch Piscine 03](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine03/README.md)
+5. [Branch Piscine 04](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine04/README.md)
+6. [Branch Piscine 05](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine05/README.md)
 
 ## 👨‍🏫 Contributors
 <br/>
