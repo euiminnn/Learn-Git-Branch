@@ -12,7 +12,7 @@ Enjoy your study :)
 ## 📚 Subjects
 1. [Branch Piscine 00](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine00/README.md)
 2. [Branch Piscine 01](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine01/README.md)
-3. [Branch Piscine 02](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine02/README.mdd)
+3. [Branch Piscine 02](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine02/README.md)
 4. [Branch Piscine 03](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine03/README.md)
 5. [Branch Piscine 04](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine04/README.md)
 6. [Branch Piscine 05](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine05/README.md)
